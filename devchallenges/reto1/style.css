@@ -47,7 +47,7 @@ body {
 .content-questions {
     margin: auto;
     width: 60%;
-    padding: 40px;
+    padding: 30px;
 }
 
 .title {
@@ -74,7 +74,7 @@ ul > li {
 }
 
 .line {
-    border: 0.2px solid #D2D5DA;
+    border-top: 0.2px solid #D2D5DA;
     width: 80%;
     margin: auto;
 }
